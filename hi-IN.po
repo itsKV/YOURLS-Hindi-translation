@@ -1,0 +1,1297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YOURLS 1.7\n"
+"POT-Creation-Date: 2014-01-11 11:50+0100\n"
+"PO-Revision-Date: 2016-10-19 18:49+0530\n"
+"Last-Translator: KVaibhav <contact[at]kvaibhav.in>\n"
+"Language-Team: KVaibhav <contact[at]kvaibhav.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;yourls_esc_html_x;yourls_n:1,2;"
+"yourls_nx:1,2;yourls_n_noop:1,2;yourls_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: hi\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: yourls-infos.php:204
+#, php-format
+msgid "Statistics for %s"
+msgstr "%s के आंकड़े"
+
+#: yourls-infos.php:211 admin/index.php:15 admin/index.php:34 admin/index.php:93 includes/functions-html.php:209 includes/functions-html.php:221
+#: includes/functions-html.php:464 includes/functions-html.php:626
+msgid "Short URL"
+msgstr "शॉर्ट यूआरएल"
+
+#: yourls-infos.php:227
+msgid "Aggregate stats for duplicate short URLs"
+msgstr "शॉर्ट यूआरएल के कूल आँकड़े"
+
+#: yourls-infos.php:229 includes/functions-html.php:464
+msgid "Long URL"
+msgstr "बड़ा यूआरएल"
+
+#: yourls-infos.php:235 yourls-infos.php:246
+msgid "Traffic statistics"
+msgstr "यातायात के आंकड़े"
+
+#: yourls-infos.php:236 yourls-infos.php:432
+msgid "Traffic location"
+msgstr "यातायात की जगह"
+
+#: yourls-infos.php:237 yourls-infos.php:469
+msgid "Traffic sources"
+msgstr "यातायात स्तोत्र"
+
+#: yourls-infos.php:239 yourls-infos.php:539 includes/functions-html.php:505 includes/functions-html.php:506
+msgid "Share"
+msgstr "सांझा करें"
+
+#: yourls-infos.php:254 yourls-infos.php:294
+msgid "Last 24 hours"
+msgstr "आंखरी २२ घंटे"
+
+#: yourls-infos.php:255 yourls-infos.php:296
+msgid "Last 7 days"
+msgstr "आंखरी ७ दिन"
+
+#: yourls-infos.php:256 yourls-infos.php:298
+msgid "Last 30 days"
+msgstr "आंखरी ३० दिन"
+
+#: yourls-infos.php:257 yourls-infos.php:300
+msgid "All time"
+msgstr "पुरे आंकड़े"
+
+#: yourls-infos.php:309
+#, php-format
+msgid "Number of hits : %s"
+msgstr "%s के क्लिक्स"
+
+#: yourls-infos.php:332
+msgid "Historical click count"
+msgstr "कूल क्लिल्स की गिनती"
+
+#: yourls-infos.php:338
+#, php-format
+msgid "about 1 day ago"
+msgid_plural "about %s days ago"
+msgstr[0] "१ दिन पहले"
+msgstr[1] "%s दिन पहले"
+
+#. //translators: eg Short URL created on March 23rd 1972
+#: yourls-infos.php:341
+#, php-format
+msgid "Short URL created on %s"
+msgstr "शोर्ट यूआरएल %s पे बनाया गया"
+
+#: yourls-infos.php:356 yourls-infos.php:363
+#, php-format
+msgid "%s per day"
+msgstr "%s हर दिन"
+
+#: yourls-infos.php:359
+#, php-format
+msgid "%s per hour"
+msgstr "%s हर घंटे"
+
+#: yourls-infos.php:366
+#, php-format
+msgid "%s hit"
+msgid_plural "%s hits"
+msgstr[0] "%s क्लिक"
+msgstr[1] "%s क्लिक्स"
+
+#: yourls-infos.php:373
+msgid "Best day"
+msgstr "सबसे अच्छा दिन"
+
+#. //translators: eg. 43 hits on January 1, 1970
+#: yourls-infos.php:380
+#, php-format
+msgid "<strong>%1$s</strong> hit on %2$s"
+msgid_plural "<strong>%1$s</strong> hits on %2$s"
+msgstr[0] "%2$s पे <strong>%1$s</strong>क्लिक"
+msgstr[1] "%2$s पे <strong>%1$s</strong>क्लिक्स"
+
+#: yourls-infos.php:381 yourls-infos.php:443
+msgid "Click for more details"
+msgstr "अधिक जानकारी"
+
+#: yourls-infos.php:387 yourls-infos.php:390
+#, php-format
+msgid "Year %s"
+msgstr "%s साल"
+
+#: yourls-infos.php:409 yourls-infos.php:447
+#, php-format
+msgid "1 hit"
+msgid_plural "%s hits"
+msgstr[0] "१ क्लिक"
+msgstr[1] "%s क्लिक्स"
+
+#: yourls-infos.php:426
+msgid "No traffic yet. Get some clicks first!"
+msgstr "कोई गिनती नहीं. पहले कुछ क्लिक्स हासिल करे!"
+
+#: yourls-infos.php:441
+msgid "Top 5 countries"
+msgstr "५ अग्र देश"
+
+#: yourls-infos.php:454
+msgid "Overall traffic"
+msgstr "कुल यातायात"
+
+#: yourls-infos.php:463
+msgid "No country data."
+msgstr "देश की जानकारी नहीं."
+
+#: yourls-infos.php:478
+msgid "Referrer shares"
+msgstr "सन्दर्भ के सांझे"
+
+#: yourls-infos.php:481
+msgid "Others"
+msgstr "दुसरे"
+
+#: yourls-infos.php:485 yourls-infos.php:518
+msgid "Referrers"
+msgstr "सन्दर्भ"
+
+#: yourls-infos.php:492 yourls-infos.php:502
+msgid "(details)"
+msgstr "(अधिक जानकारी)"
+
+#: yourls-infos.php:502
+msgid "Various:"
+msgstr "अलग अलग:"
+
+#: yourls-infos.php:516
+msgid "Direct vs Referrer Traffic"
+msgstr "प्रत्यक्ष बनाम संदर्भ यातायात"
+
+#: yourls-infos.php:518
+msgid "Direct"
+msgstr "प्रत्यक्ष"
+
+#: yourls-infos.php:520
+msgid "Direct traffic:"
+msgstr "प्रत्यक्ष यातायात"
+
+#: yourls-infos.php:520 yourls-infos.php:521
+#, php-format
+msgid "<strong>%s</strong> hit"
+msgid_plural "<strong>%s</strong> hits"
+msgstr[0] "%s क्लिक"
+msgstr[1] "%s क्लिक्स"
+
+#: yourls-infos.php:521
+msgid "Referrer traffic:"
+msgstr "सन्दर्भ द्वारा यातायात :"
+
+#: yourls-infos.php:530
+msgid "No referrer data."
+msgstr "सन्दर्भ की कोई जानकारी नहीं."
+
+#: yourls-infos.php:541
+msgid "Short link"
+msgstr "लघु यूआरएल"
+
+#: yourls-infos.php:541 includes/functions-html.php:359
+msgid "Quick Share"
+msgstr "त्वरित सांझा करें"
+
+#: admin/index.php:13 admin/index.php:38 admin/index.php:97 includes/functions-html.php:210 includes/functions-html.php:222
+msgid "URL"
+msgstr "यूआरएल"
+
+#: admin/index.php:42 includes/functions-html.php:211 includes/functions-html.php:464
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/index.php:46 admin/index.php:105
+msgid "IP Address"
+msgstr "आईपी ​​पता"
+
+#: admin/index.php:50
+#, php-format
+msgid "Searching for <strong>%1$s</strong> in <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong> में <strong>%1$s</strong> ढूँढा जा रहा हैं"
+
+#: admin/index.php:101 includes/functions-html.php:223 includes/functions-html.php:628
+msgid "Date"
+msgstr "तारीख"
+
+#: admin/index.php:109 includes/functions-html.php:225 includes/functions-html.php:630
+msgid "Clicks"
+msgstr "क्लिक्स"
+
+#: admin/index.php:187 admin/index.php:198 admin/index.php:209
+#, php-format
+msgid "Short URL created, but could not redirect to %s !"
+msgstr "शॉर्ट यूआरएल बनाया है, लेकिन %s पर अनुप्रेषित नहीं कर सकता !"
+
+#: admin/index.php:219
+msgid "Unknown \"Share\" bookmarklet"
+msgstr "अज्ञात \"शेयर\" बुकमार्कलेट"
+
+#: admin/index.php:272
+#, php-format
+msgid "Display <strong>%1$s</strong> to <strong class=\"increment\">%2$s</strong> of <strong class=\"increment\">%3$s</strong> URLs"
+msgstr "<strong class=\"increment\">%3$s</strong> में से <strong>%1$s</strong> तक <strong class=\"increment\">%2$s</strong> यूआरएल दिखाएं."
+
+#: admin/index.php:274
+#, php-format
+msgid "counting <strong>1</strong> click"
+msgid_plural "counting <strong>%s</strong> clicks"
+msgstr[0] "<strong>१</strong> क्लिक गिना जा रहा हैं."
+msgstr[1] "<strong>%s</strong> क्लिक्स गिने जा रहे हैं."
+
+#: admin/index.php:277
+#, php-format
+msgid "Overall, tracking <strong class=\"increment\">%1$s</strong> links, <strong>%2$s</strong> clicks, and counting!"
+msgstr "कुल, <strong class=\"increment\">%1$s</strong> लिंक्स, <strong>%2$s</strong> क्लिक्स, और भी बढ़ रहें हैं..."
+
+#: admin/index.php:337
+msgid "No URL"
+msgstr "यूआरएल नहीं"
+
+#: admin/install.php:13 admin/install.php:18
+#, php-format
+msgid "%s version is too old. Ask your server admin for an upgrade."
+msgstr "%s संस्करण पुराना हैं. उन्नयन के लिए अपने सर्वर व्यवस्थापक से पूछें."
+
+#: admin/install.php:24
+msgid "YOURLS already installed."
+msgstr "YOURLS पहले से स्थापित है."
+
+#: admin/install.php:35
+msgid "File <tt>.htaccess</tt> successfully created/updated."
+msgstr "<tt>.htaccess</tt>फ़ाइल सफलतापूर्वक बनाया गया / अद्यतन किया गया."
+
+#: admin/install.php:37
+msgid "Could not write file <tt>.htaccess</tt> in YOURLS root directory. You will have to do it manually. See <a href=\"http://yourls.org/htaccess\">how</a>."
+msgstr "<tt>.htaccess</tt> फ़ाइल YOURLS के मूल संहिता में बनाया नहीं जा सका. आपको इसे मैन्युअल रूप से करना होगा. <a href=\"http://yourls.org/htaccess\">how</a> देखें."
+
+#: admin/install.php:50 admin/install.php:71
+msgid "Install YOURLS"
+msgstr "YOURLS प्रस्थापित करें"
+
+#: admin/install.php:74
+msgid "YOURLS Administration Page"
+msgstr "YOURLS का प्रशासक पेज "
+
+#: admin/plugins.php:38
+msgid "Unsupported action"
+msgstr "असमर्थित कार्रवाई"
+
+#: admin/plugins.php:42
+msgid "No plugin specified, or not a valid plugin"
+msgstr "कोई प्लगइन निर्दिष्ट नहीं या वैध प्लगइन नहीं है"
+
+#: admin/plugins.php:51
+msgid "Plugin has been activated"
+msgstr "प्लगइन सक्रिय कर दिया गया है"
+
+#: admin/plugins.php:53
+msgid "Plugin has been deactivated"
+msgstr "प्लगइन निष्क्रिय किया गया"
+
+#: admin/plugins.php:58 includes/functions-html.php:745
+msgid "Manage Plugins"
+msgstr "प्लगइन संभाले"
+
+#: admin/plugins.php:63
+msgid "Plugins"
+msgstr "प्लगइन्स"
+
+#: admin/plugins.php:70
+#, php-format
+msgid "%s plugin"
+msgid_plural "%s plugins"
+msgstr[0] "%s प्लगइन"
+msgstr[1] "%s प्लगइन्स"
+
+#. //translators: "you have '3 plugins' installed and '1' activated"
+#: admin/plugins.php:74
+#, php-format
+msgid "You currently have <strong>%1$s</strong> installed, and <strong>%2$s</strong> activated"
+msgstr "<strong>%1$s</strong> प्रस्थापित, <strong>%2$s</strong> सक्रीय"
+
+#: admin/plugins.php:79
+msgid "Plugin Name"
+msgstr "प्लगइन का नाम"
+
+#: admin/plugins.php:80
+msgid "Version"
+msgstr "संस्करण"
+
+#: admin/plugins.php:81
+msgid "Description"
+msgstr "विवरण"
+
+#: admin/plugins.php:82
+msgid "Author"
+msgstr "लेखक"
+
+#: admin/plugins.php:83
+msgid "Action"
+msgstr "कारवाई"
+
+#: admin/plugins.php:118
+msgid "Deactivate"
+msgstr "निष्क्रिय"
+
+#: admin/plugins.php:122
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: admin/plugins.php:133
+#, php-format
+msgid "plugin file location: %s"
+msgstr "प्लगइन फ़ाइल का स्थान :%s"
+
+#: admin/plugins.php:150
+msgid "Toggle active/inactive plugins"
+msgstr "प्लगइन सक्रिय अथवा निष्क्रिय करें"
+
+#: admin/plugins.php:157
+msgid ""
+"If something goes wrong after you activate a plugin and you cannot use YOURLS or access this page, simply rename or delete its directory, or rename the plugin file "
+"to something different than <code>plugin.php</code>."
+msgstr ""
+"नए प्लगइन को सक्रिय करनेसे कुछ गलत हो जाता है, और आप YOURLS का उपयोग नहीं कर सके, तो उस प्लगइन का नाम बदल दें, निकाल दें या फिर प्लगइन फ़ाइल का नाम <code>plugin.php</code> "
+"व्यतिरिक्त कुछ और रखें. "
+
+#: admin/plugins.php:159
+msgid "More plugins"
+msgstr "अधिक प्लगइन"
+
+#: admin/plugins.php:161
+msgid "For more plugins, head to the official <a href=\"http://yourls.org/pluginlist\">Plugin list</a>."
+msgstr "अधिक प्लगइन के लिए आधिकारिक वेबसाइट <a href=\"http://yourls.org/pluginlist\">Plugin list</a> देखें."
+
+#: admin/tools.php:6
+msgid "Cool YOURLS Tools"
+msgstr "कुछ अच्छे YOURLS उपरकरण"
+
+#: admin/tools.php:13
+msgid "Bookmarklets"
+msgstr "बुकमार्कलेट "
+
+#: admin/tools.php:15
+msgid "YOURLS comes with handy <span>bookmarklets</span> for easier link shortening and sharing."
+msgstr "लिंक्स को छोटा और साझा करने के लिए YOURLS अच्छे <span>bookmarklets</span> के साथ आता है. "
+
+#: admin/tools.php:17
+msgid "Standard or Instant, Simple or Custom"
+msgstr "मानक या त्वरित, सरल या मनचाहा"
+
+#: admin/tools.php:20
+msgid "The <span>Standard Bookmarklets</span> will take you to a page where you can easily edit or delete your brand new short URL."
+msgstr "<span>Standard Bookmarklets</span> आपको एक पृष्ठ पर ले जाएगा, जहां आप आसानी से लघु यूआरएल को संपादित या  नष्ट कर सकते हैं."
+
+#: admin/tools.php:22
+msgid "The <span>Instant Bookmarklets</span> will pop the short URL without leaving the page you are viewing."
+msgstr " इस सद्य पेज को छोड़े बिना <span>Instant Bookmarklets</span> लघु यूआरएल को खोल देगा. "
+
+#: admin/tools.php:24
+msgid "The <span>Simple Bookmarklets</span> will generate a short URL with a random or sequential keyword."
+msgstr "<span>Simple Bookmarklets</span> एक यादृच्छिक या अनुक्रमिक शब्द के साथ एक छोटा यूआरएल उत्पन्न कर देगा."
+
+#: admin/tools.php:26
+msgid "The <span>Custom Keyword Bookmarklets</span> will prompt you for a custom keyword first."
+msgstr "<span>Custom Keyword Bookmarklets</span>पहले मनचाहे शब्द के लिए पूछेगा."
+
+#: admin/tools.php:30
+msgid ""
+"If you want to share a description along with the link you're shortening, simply <span>select text</span> on the page you're viewing before clicking on your "
+"bookmarklet link"
+msgstr "अगर आप लघु लिंक को विवरण के साथ सांझा करना चाहते हैं तो बुकमार्कलेट लिंक पे क्लिक करनेसे पहले पेज से मनचाहे अक्षर पकड़ ले."
+
+#: admin/tools.php:33
+msgid "The Bookmarklets"
+msgstr "बुकमार्कलेट"
+
+#: admin/tools.php:35 admin/tools.php:62
+msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
+msgstr "लिंक को पकडे और टूलबार पर खिंचे (या फिर राइट-क्लिक करके बुकमार्क करें)"
+
+#: admin/tools.php:41
+msgid "Standard (new page)"
+msgstr "मानक (नया पेज)"
+
+#: admin/tools.php:42
+msgid "Instant (popup)"
+msgstr "त्वरित (popup)"
+
+#: admin/tools.php:47
+msgid "Simple"
+msgstr "सरल"
+
+#: admin/tools.php:48 admin/tools.php:49 admin/tools.php:53 admin/tools.php:54 admin/tools.php:68 admin/tools.php:70 admin/tools.php:72
+msgid "Drag to your toolbar!"
+msgstr "अपने टूलबार पे खिंचे !"
+
+#: admin/tools.php:48
+msgid "Shorten"
+msgstr "छोटा करें"
+
+#: admin/tools.php:49
+msgid "Instant Shorten"
+msgstr "त्वरित छोटा करें"
+
+#: admin/tools.php:52
+msgid "Custom Keyword"
+msgstr "मनचाहे शब्द"
+
+#: admin/tools.php:53
+msgid "Custom shorten"
+msgstr "मनचाहे शब्दसे छोटा करें"
+
+#: admin/tools.php:54
+msgid "Instant Custom Shorten"
+msgstr "मनचाहे शब्दसे त्वरित छोटा करें."
+
+#: admin/tools.php:59
+msgid "Social Bookmarklets"
+msgstr "सामाजिक बुकमार्कलेट"
+
+#: admin/tools.php:61
+msgid "Create a short URL and share it on social networks, all in one click!"
+msgstr "छोटा यूआरएल बनाएं और सामाजिक नेटवर्क पर साझा करे, सब एक क्लिक में !"
+
+#: admin/tools.php:64
+msgid "Shorten and share:"
+msgstr "छोटा और सांझा करें :"
+
+#: admin/tools.php:68
+msgid "YOURLS &amp; Facebook"
+msgstr "YOURLS &amp; Facebook"
+
+#: admin/tools.php:70
+msgid "YOURLS &amp; Twitter"
+msgstr "YOURLS &amp; Twitter"
+
+#: admin/tools.php:72
+msgid "YOURLS &amp; Tumblr"
+msgstr "YOURLS &amp; Tumblr"
+
+#: admin/tools.php:80
+msgid "Prefix-n-Shorten"
+msgstr "उपसर्ग लगाए और सांझा करे"
+
+#: admin/tools.php:82
+#, php-format
+msgid ""
+"When viewing a page, you can also prefix its full URL: just head to your browser's address bar, add \"<span>%s</span>\" to the beginning of the current URL (right "
+"before its 'http://' part) and hit enter."
+msgstr "पन्ना देखते वक्त आप उसका पूरा यूआरएल का उपसर्ग लगा सकते है. सिर्फ ब्राउजर  के address बार पे जाके यूआरएल के पहले \"<span>%s</span>\" लगाये. (ठिक 'http://' के पहले) "
+
+#: admin/tools.php:85
+msgid "Note: this will probably not work if your web server is running on Windows"
+msgstr "नोट: अगर आपका वेब सर्वर Windows पर चल रहा है तो यह शायद काम नहीं कर सकता."
+
+#: admin/tools.php:87
+msgid " (which seems to be the case here)"
+msgstr "(फिलहाल तो यहाँ यही दिख रहा है)"
+
+#: admin/tools.php:93
+msgid "Secure passwordless API call"
+msgstr "password के बिना सुरक्षित API call"
+
+#: admin/tools.php:96
+msgid "YOURLS allows API calls the old fashioned way, using <tt>username</tt> and <tt>password</tt> parameters."
+msgstr "YOURLS पुराने जमाने का तरीका <tt>username</tt> और <tt>password</tt> का तरीका इस्तेमाल करने देता हैं. "
+
+#: admin/tools.php:98
+msgid ""
+"If you're worried about sending your credentials into the wild, you can also make API calls without using your login or your password, using a secret signature "
+"token."
+msgstr "अगर आप खुल्ले में आपका password का इस्तेमाल करनेसे चिंतित हैं, तो आप गुप्त हस्ताक्षर टोकन का उपयोग भी API calls के लिए कर सकते है. "
+
+#: admin/tools.php:102
+#, php-format
+msgid "Your secret signature token: <strong><code>%s</code></strong>"
+msgstr "आपका गुप्त हस्ताक्षर टोकन : <strong><code>%s</code></strong>"
+
+#: admin/tools.php:103
+msgid "(It's a secret. Keep it secret) "
+msgstr "(यह गुप्त है. इसे गुप्तही रखें) "
+
+#: admin/tools.php:106
+msgid "This signature token can only be used with the API, not with the admin interface."
+msgstr "यह हस्ताक्षर टोकन केवल एपीआई के साथ इस्तेमाल किया जा सकता है, व्यवस्थापक अंतरफलक के साथ नहीं। "
+
+#: admin/tools.php:109
+msgid "Usage of the signature token"
+msgstr "हस्ताक्षर टोकन के उपयोग का विवरण"
+
+#: admin/tools.php:110
+msgid "Simply use parameter <tt>signature</tt> in your API requests. Example:"
+msgstr "खाली <tt>signature</tt> का अपने API calls में इस्तेमाल करें. जैसे की... : "
+
+#: admin/tools.php:114
+msgid "Usage of a time limited signature token"
+msgstr "सीमित समय हस्ताक्षर टोकन के उपयोग"
+
+#: admin/tools.php:117 admin/tools.php:119
+msgid "actual value:"
+msgstr "सही कीमत"
+
+#: admin/tools.php:122
+msgid "Now use parameters <tt>signature</tt> and <tt>timestamp</tt> in your API requests. Example:"
+msgstr "अब  <tt>signature</tt> और <tt>timestamp</tt> का अपने API call में इस्तेमाल करे. "
+
+#: admin/tools.php:124
+msgid "Actual values:"
+msgstr "सही किमतें :"
+
+#: admin/tools.php:126
+#, php-format
+msgid "This URL would be valid for only %s seconds"
+msgstr "यह URL खाली %s पलोंके लिए वैध रहेगा."
+
+#: admin/tools.php:130
+#, php-format
+msgid "See the <a href=\"%s\">API documentation</a> for more"
+msgstr "अधिक <a href=\"%s\">API documentation</a> यहाँ देखे."
+
+#: admin/upgrade.php:9 admin/upgrade.php:13
+msgid "Upgrade YOURLS"
+msgstr "YOURLS उन्नयन"
+
+#: admin/upgrade.php:18
+#, php-format
+msgid "Upgrade not required. Go <a href=\"%s\">back to play</a>!"
+msgstr "उन्नयन की जरूरत नहीं. <a href=\"%s\">back to play</a> देखें !"
+
+#: admin/upgrade.php:51
+msgid "Your current installation needs to be upgraded."
+msgstr "आपके वर्तमान स्थापना को उन्नत करने की जरूरत है।"
+
+#: admin/upgrade.php:52
+msgid "Please, pretty please, it is recommended that you <strong>backup</strong> your database<br/>(you should do this regularly anyway)"
+msgstr "आपके डेटाबेस के <strong> बैकअप </strong> की सिफारिश की जाती है. ( आपको इसे नियमित रूप से करना चाहिए )"
+
+#: admin/upgrade.php:53
+msgid "Nothing awful <em>should</em> happen, but this doesn't mean it <em>won't</em> happen, right? ;)"
+msgstr "ऐसा होना तो नहीं चाहिए, पर ऐसा होगा ही नहीं ऐसा होतो नहीं सकता ना...!"
+
+#: admin/upgrade.php:54
+msgid "On every step, if <span class='error'>something goes wrong</span>, you'll see a message and hopefully a way to fix."
+msgstr "किसी भी स्टेप पे अगर कुछ गड़बड़ होती हैं, तो आपको बता दिया जाएगा, हो सकता हैं, उसके साथ उसका हल भी दिया गया हो...."
+
+#: admin/upgrade.php:55
+msgid "If everything goes too fast and you cannot read, <span class=\"success\">good for you</span>, let it go :)"
+msgstr "सब कुछ बहुत तेजी से चला जाता है और यदि आप नहीं पढ़ सकते हैं, तो <span class=\"success\">अच्छा</span> ही है, जाने दीजिये."
+
+#: admin/upgrade.php:56
+msgid "Once you are ready, press \"Upgrade\" !"
+msgstr "अगर तैयार हैं, तो \"Upgrade\" दबाइए."
+
+#: admin/upgrade.php:65
+msgid "Upgrade"
+msgstr "उन्नयन"
+
+#: admin/upgrade.php:77
+msgid "Your installation is now up to date ! "
+msgstr "आपकी स्थापना अब नयी हो गयी."
+
+#: admin/upgrade.php:78
+#, php-format
+msgid "Go back to <a href=\"%s\">the admin interface</a>"
+msgstr "<a href=\"%s\">Admin Interface</a> पे वापस जाइए."
+
+#: includes/auth.php:53
+#, php-format
+msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
+msgstr "संकेत-शब्द ऑटो एन्क्रिप्ट नहीं किया जा सका. क्योंकि \"%s\""
+
+#: includes/auth.php:55
+#, php-format
+msgid "<a href=\"%s\">Get help</a>."
+msgstr "<a href=\"%s\"> मदत </a>"
+
+#: includes/auth.php:57
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to dismiss this message for one week."
+msgstr "एक सप्ताह के लिए इस संदेश को खारिज करने के लिए <a href=\"%s\">यहाँ</a> दबाइए."
+
+#: includes/class-mysql.php:39
+msgid "YOURLS requires the mysql, mysqli or pdo_mysql PHP extension. No extension found. Check your server config, or contact your host."
+msgstr "YOURLS के लिए mysql, mysqli या pdo_mysql PHP का विस्तार चाहिए. कोई विस्तार नहीं पाया गया. अपने सर्वर config की जाँच करें, या अपने मेजबान से संपर्क करें।"
+
+#: includes/class-mysql.php:40 includes/functions-install.php:16 includes/functions.php:438 includes/functions.php:450
+msgid "Fatal error"
+msgstr "घातक गलती"
+
+#: includes/functions-auth.php:26
+msgid "Logged out successfully"
+msgstr "सफलतापूर्वक लॉग आउट कर दिया गया."
+
+#: includes/functions-auth.php:102
+msgid "Invalid username or password"
+msgstr "गलत उपयोगकर्ता नाम या संकेत शब्द"
+
+#: includes/functions-auth.php:104
+msgid "Please log in"
+msgstr "कृपया लॉगिन करें"
+
+#: includes/functions-html.php:142
+#, php-format
+msgid "1 query"
+msgid_plural "%s queries"
+msgstr[0] "१ पूछताछ"
+msgstr[1] "%s पुछताछ"
+
+#: includes/functions-html.php:147
+#, php-format
+msgid "Powered by %s"
+msgstr "%s द्वारा संचालित"
+
+#: includes/functions-html.php:175
+msgid "Enter the URL"
+msgstr "URL डालिए"
+
+#: includes/functions-html.php:176
+msgid "Optional "
+msgstr "वैकल्पिक"
+
+#: includes/functions-html.php:176
+msgid "Custom short URL"
+msgstr "मनोवांछित लघु URL"
+
+#: includes/functions-html.php:178
+msgid "Shorten The URL"
+msgstr "URL छोटा करें"
+
+#: includes/functions-html.php:212 includes/functions-html.php:224 includes/functions-html.php:629
+msgid "IP"
+msgstr "IP"
+
+#. //translators: "Search for <input field with text to search> in <select dropdown with URL, title...>"
+#: includes/functions-html.php:216
+#, php-format
+msgid "Search for %1$s in %2$s"
+msgstr " %1$s को %2$s में खोंजे"
+
+#: includes/functions-html.php:230
+msgid "Ascending"
+msgstr "चढ़ता क्रम"
+
+#: includes/functions-html.php:231
+msgid "Descending"
+msgstr "उतरता क्रम"
+
+#. //translators: "Order by <criteria dropdown (date, clicks...)> in <order dropdown (Descending or Ascending)>"
+#: includes/functions-html.php:235
+#, php-format
+msgid "Order by %1$s %2$s"
+msgstr "%1$s %2$s द्वारा क्रम लगाए"
+
+#. //translators: "Show <text field> rows"
+#: includes/functions-html.php:240
+#, php-format
+msgid "Show %s rows"
+msgstr "%s पंक्तिया दिखाए"
+
+#: includes/functions-html.php:245
+msgid "more"
+msgstr "अधिक"
+
+#: includes/functions-html.php:246
+msgid "less"
+msgstr "कम"
+
+#. //translators: "Show links with <more/less> than <text field> clicks"
+#: includes/functions-html.php:251
+#, php-format
+msgid "Show links with %1$s than %2$s clicks"
+msgstr "%2$s छोडके %1$s से लिंक्स दिखाए"
+
+#: includes/functions-html.php:256
+msgid "before"
+msgstr "पहले"
+
+#: includes/functions-html.php:257
+msgid "after"
+msgstr "बाद"
+
+#: includes/functions-html.php:258
+msgid "between"
+msgstr "बीच"
+
+#. //translators: "Show links created <before/after/between> <date input> <"and" if applicable> <date input if applicable>"
+#: includes/functions-html.php:265
+#, php-format
+msgid "Show links created %1$s %2$s %3$s %4$s"
+msgstr "%1$s %2$s %3$s %4$s बनाए गए लिंक्स"
+
+#: includes/functions-html.php:269
+msgid "Search"
+msgstr "खोंजे"
+
+#: includes/functions-html.php:271
+msgid "Clear"
+msgstr "साफ़ करे"
+
+#: includes/functions-html.php:291
+#, php-format
+msgid "1 page"
+msgid_plural "%s pages"
+msgstr[0] "१ पन्ना"
+msgstr[1] "%s पन्ने"
+
+#: includes/functions-html.php:299 includes/functions-html.php:313
+msgid "Go to First Page"
+msgstr "पहले पन्ने पे जायें"
+
+#: includes/functions-html.php:299
+msgid "&laquo; First"
+msgstr "&laquo; पहला"
+
+#: includes/functions-html.php:313
+msgid "Last &raquo;"
+msgstr "आखरी &raquo;"
+
+#: includes/functions-html.php:357
+msgid "Your short link"
+msgstr "आपका लघु लिंक"
+
+#: includes/functions-html.php:388
+msgid "Long link"
+msgstr "बड़ा लिंक"
+
+#: includes/functions-html.php:390 includes/functions-html.php:499 includes/functions-html.php:500
+msgid "Stats"
+msgstr "आंकड़े"
+
+#: includes/functions-html.php:404
+msgid "Share with"
+msgstr "सांझा करे"
+
+#: includes/functions-html.php:405
+msgid "Tweet this!"
+msgstr "इसे tweet करे"
+
+#: includes/functions-html.php:406
+msgid "Share on Facebook"
+msgstr "Facebook पे सांझा करे"
+
+#: includes/functions-html.php:407
+msgid "Share on Friendfeed"
+msgstr " Friendfeed पे सांझा करे"
+
+#: includes/functions-html.php:464
+msgid "Save"
+msgstr "सहेजें"
+
+#: includes/functions-html.php:464
+msgid "Save new values"
+msgstr "नए मूल्य सहेजें"
+
+#: includes/functions-html.php:464
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: includes/functions-html.php:464
+msgid "Cancel editing"
+msgstr "संपादन रद्द करे"
+
+#: includes/functions-html.php:466
+msgid "Error, URL not found"
+msgstr "त्रुटी, यूआरएल नहीं मिला"
+
+#: includes/functions-html.php:512 includes/functions-html.php:513
+msgid "Edit"
+msgstr "संपादन"
+
+#: includes/functions-html.php:519 includes/functions-html.php:520
+msgid "Delete"
+msgstr "मिटाये"
+
+#: includes/functions-html.php:541
+msgid "Not a common link"
+msgstr "आम लिंक नहीं"
+
+#: includes/functions-html.php:627
+msgid "Original URL"
+msgstr "मूल लिंक"
+
+#: includes/functions-html.php:631
+msgid "Actions"
+msgstr "कार्यवाई"
+
+#: includes/functions-html.php:697
+msgid "Username"
+msgstr "वापरकर्ता नाम"
+
+#: includes/functions-html.php:701
+msgid "Password"
+msgstr "संकेत शब्द"
+
+#: includes/functions-html.php:705
+msgid "Login"
+msgstr "प्रवेश करें"
+
+#: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
+#, php-format
+msgid "Hello <strong>%s</strong>"
+msgstr "नमस्कार <strong>%s</strong>"
+
+#: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
+msgid "Logout"
+msgstr "लॉगआउट"
+
+#: includes/functions-html.php:727
+msgid "Help"
+msgstr "मदत"
+
+#: includes/functions-html.php:734
+msgid "Go to the admin interface"
+msgstr "व्यवस्थापक पैनल पे चलें"
+
+#: includes/functions-html.php:735
+msgid "Admin interface"
+msgstr "व्यस्थापक पैनल"
+
+#: includes/functions-html.php:741
+msgid "Tools"
+msgstr "उपकरण"
+
+#: includes/functions-html.php:867 includes/functions-html.php:872
+msgid "Today"
+msgstr "आज"
+
+#: includes/functions-html.php:868 includes/functions-html.php:873
+msgid "Close"
+msgstr "बंद "
+
+#: includes/functions-html.php:889
+#, php-format
+msgid "<a href=\"%s\">YOURLS version %s</a> is available. Please update!"
+msgstr "<a href=\"%s\">YOURLS संस्करण %s</a> उपलब्ध. उन्नयन करे !"
+
+#: includes/functions-install.php:16 includes/functions.php:438
+msgid "Incorrect DB config, or could not connect to DB"
+msgstr "गलत DB विन्यास या DB से संपर्क नहीं हो रहा."
+
+#: includes/functions-install.php:241
+#, php-format
+msgid "Table '%s' created."
+msgstr "तालिका '%s' तैयार"
+
+#: includes/functions-install.php:243
+#, php-format
+msgid "Error creating table '%s'."
+msgstr " '%s' तालिका बनाने में त्रुटी."
+
+#: includes/functions-install.php:249
+msgid "Could not initialize options"
+msgstr "विकल्प को प्रारंभ नहीं कर सका"
+
+#: includes/functions-install.php:253
+msgid "Could not insert sample short URLs"
+msgstr "नमूना लघु यूआरएल सम्मिलित नहीं किया जा सका"
+
+#: includes/functions-install.php:257
+msgid "YOURLS tables successfully created."
+msgstr "YOURLS तालिका बनाया गया"
+
+#: includes/functions-install.php:259
+msgid "Error creating YOURLS tables."
+msgstr "YOURLS तालिका बनाने में त्रुटि"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:795 includes/functions-l10n.php:805 includes/functions-l10n.php:818
+msgid "Sunday"
+msgstr "रविवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:796 includes/functions-l10n.php:806 includes/functions-l10n.php:819
+msgid "Monday"
+msgstr "सोमवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:797 includes/functions-l10n.php:807 includes/functions-l10n.php:820
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:798 includes/functions-l10n.php:808 includes/functions-l10n.php:821
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:799 includes/functions-l10n.php:809 includes/functions-l10n.php:822
+msgid "Thursday"
+msgstr "गुरूवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:800 includes/functions-l10n.php:810 includes/functions-l10n.php:823
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:801 includes/functions-l10n.php:811 includes/functions-l10n.php:824
+msgid "Saturday"
+msgstr "शनिवार"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:805
+msgid "S_Sunday_initial"
+msgstr "रवि"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:806
+msgid "M_Monday_initial"
+msgstr "सोम"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:807
+msgid "T_Tuesday_initial"
+msgstr "मंगल"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:808
+msgid "W_Wednesday_initial"
+msgstr "बुध"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:809
+msgid "T_Thursday_initial"
+msgstr "गुरु"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:810
+msgid "F_Friday_initial"
+msgstr "शुक्र"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:811
+msgid "S_Saturday_initial"
+msgstr "शनि"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:818
+msgid "Sun"
+msgstr "रवि"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:819
+msgid "Mon"
+msgstr "सोम"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:820
+msgid "Tue"
+msgstr "मंगल"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:821
+msgid "Wed"
+msgstr "बुध"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:822
+msgid "Thu"
+msgstr "गुरु"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:823
+msgid "Fri"
+msgstr "शुक्र"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:824
+msgid "Sat"
+msgstr "शनि"
+
+#. //translators: month name
+#: includes/functions-l10n.php:827 includes/functions-l10n.php:842
+msgid "January"
+msgstr "जनवरी"
+
+#. //translators: month name
+#: includes/functions-l10n.php:828 includes/functions-l10n.php:843
+msgid "February"
+msgstr "फरवरी"
+
+#. //translators: month name
+#: includes/functions-l10n.php:829 includes/functions-l10n.php:844
+msgid "March"
+msgstr "मार्च"
+
+#. //translators: month name
+#: includes/functions-l10n.php:830 includes/functions-l10n.php:845
+msgid "April"
+msgstr "अप्रैल"
+
+#. //translators: month name
+#: includes/functions-l10n.php:831 includes/functions-l10n.php:846
+msgid "May"
+msgstr "मई"
+
+#. //translators: month name
+#: includes/functions-l10n.php:832 includes/functions-l10n.php:847
+msgid "June"
+msgstr "जून"
+
+#. //translators: month name
+#: includes/functions-l10n.php:833 includes/functions-l10n.php:848
+msgid "July"
+msgstr "जुलाई"
+
+#. //translators: month name
+#: includes/functions-l10n.php:834 includes/functions-l10n.php:849
+msgid "August"
+msgstr "अगस्त"
+
+#. //translators: month name
+#: includes/functions-l10n.php:835 includes/functions-l10n.php:850
+msgid "September"
+msgstr "सितंबर"
+
+#. //translators: month name
+#: includes/functions-l10n.php:836 includes/functions-l10n.php:851
+msgid "October"
+msgstr "अक्तूबर"
+
+#. //translators: month name
+#: includes/functions-l10n.php:837 includes/functions-l10n.php:852
+msgid "November"
+msgstr "नवम्बर"
+
+#. //translators: month name
+#: includes/functions-l10n.php:838 includes/functions-l10n.php:853
+msgid "December"
+msgstr "दिसंबर"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:842
+msgid "Jan_January_abbreviation"
+msgstr "जनवरी"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:843
+msgid "Feb_February_abbreviation"
+msgstr "फरवरी"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:844
+msgid "Mar_March_abbreviation"
+msgstr "मार्च"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:845
+msgid "Apr_April_abbreviation"
+msgstr "अप्रैल"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:846
+msgid "May_May_abbreviation"
+msgstr "मई"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:847
+msgid "Jun_June_abbreviation"
+msgstr "जून"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:848
+msgid "Jul_July_abbreviation"
+msgstr "जुलाई"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:849
+msgid "Aug_August_abbreviation"
+msgstr "अगस्त"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:850
+msgid "Sep_September_abbreviation"
+msgstr "सितंबर"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:851
+msgid "Oct_October_abbreviation"
+msgstr "अक्तूबर"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:852
+msgid "Nov_November_abbreviation"
+msgstr "नवम्बर"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:853
+msgid "Dec_December_abbreviation"
+msgstr "दिसंबर"
+
+#: includes/functions-l10n.php:860
+msgid "am"
+msgstr "am"
+
+#: includes/functions-l10n.php:861
+msgid "pm"
+msgstr "pm"
+
+#: includes/functions-l10n.php:862
+msgid "AM"
+msgstr "AM"
+
+#: includes/functions-l10n.php:863
+msgid "PM"
+msgstr "PM"
+
+#. //translators: $thousands_sep argument for http://php.net/number_format, default is ,
+#: includes/functions-l10n.php:869
+msgid "number_format_thousands_sep"
+msgstr ","
+
+#. //translators: $dec_point argument for http://php.net/number_format, default is .
+#: includes/functions-l10n.php:873
+msgid "number_format_decimal_point"
+msgstr "."
+
+#. //translators: 'rtl' or 'ltr'. This sets the text direction for YOURLS.
+#: includes/functions-l10n.php:880
+msgid "ltr"
+msgstr "ltr"
+
+#: includes/functions-plugins.php:387
+msgid "Could not find and deactivated plugin :"
+msgid_plural "Could not find and deactivated plugins :"
+msgstr[0] "निष्क्रिय किया गया प्लगइन नहीं मिल रहा "
+msgstr[1] "निष्क्रिय किये गए प्लगइन नहीं मिल रहे"
+
+#: includes/functions-plugins.php:425
+msgid "Not a valid plugin file"
+msgstr "मान्य प्लगइन फ़ाइल नहीं "
+
+#: includes/functions-plugins.php:430
+msgid "Plugin already activated"
+msgstr "प्लगइन पहलेसेही सक्रीय है"
+
+#: includes/functions-plugins.php:438
+#, php-format
+msgid "Plugin generated unexpected output. Error was: <br/><pre>%s</pre>"
+msgstr "प्लगइन द्वारा अप्रत्याशित उत्पादन. त्रुटी : <br/><pre>%s</pre>"
+
+#: includes/functions-plugins.php:461
+msgid "Plugin not active"
+msgstr "प्लगइन सक्रिय नहीं "
+
+#: includes/functions-plugins.php:541
+msgid "This page does not exist. Maybe a plugin you thought was activated is inactive?"
+msgstr "यह पन्ना मौजूद नहीं. हो सकता है कि एक प्लगइन आपने सोचा सक्रिय हो गया है, पर वैसा नहीं हुआ हो."
+
+#: includes/functions-plugins.php:541
+msgid "Invalid link"
+msgstr "अमान्य लिंक"
+
+#: includes/functions.php:201
+msgid "Missing or malformed URL"
+msgstr "गुम या विकृत URL"
+
+#: includes/functions.php:215
+msgid "URL is a short URL"
+msgstr "URL पहलेसेही लघु है"
+
+#: includes/functions.php:247
+#, php-format
+msgid "Short URL %s already exists in database or is reserved"
+msgstr "लघु URL %s पहलेसेही database में मौजूद है"
+
+#. //translators: eg "http://someurl/ added to DB"
+#: includes/functions.php:253 includes/functions.php:275
+#, php-format
+msgid "%s added to database"
+msgstr "%s database में जमा किया गया."
+
+#: includes/functions.php:283
+msgid "Error saving url to database"
+msgstr "database में यूआरएल सहेजने में त्रुटि"
+
+#. //translators: eg "http://someurl/ already exists"
+#: includes/functions.php:300
+#, php-format
+msgid "%s already exists in database"
+msgstr "%s  पहले से ही डेटाबेस में मौजूद"
+
+#: includes/functions.php:355
+msgid "Link updated in database"
+msgstr "लिंक डेटाबेस में अद्यतन"
+
+#. //translators: "Error updating http://someurl/ (Shorturl: http://sho.rt/blah)"
+#: includes/functions.php:358
+#, php-format
+msgid "Error updating %s (Short URL: %s)"
+msgstr "अनाद्यतन में त्रुटी : %s (Short URL: %s)"
+
+#: includes/functions.php:364
+msgid "URL or keyword already exists in database"
+msgstr "URL या कीवर्ड पहले से ही डेटाबेस में मौजूद"
+
+#: includes/functions.php:761
+#, php-format
+msgid "if you are not redirected after 10 seconds, please <a href=\"%s\">click here</a>"
+msgstr "अगर आप 10 सेकंड के बाद भी पुनः निर्देशित नही किये गए तो <a href=\"%s\"> यहाँ </a> दबाइए"
+
+#: includes/functions.php:769
+#, php-format
+msgid "Please <a href=\"%s\">click here</a>"
+msgstr "कृपया <a href=\"%s\"> यहाँ </a> दबाइए"
+
+#: includes/functions.php:1394
+msgid "Too many URLs added too fast. Slow down please."
+msgstr "बहुत सारे यूआरएल तेजी से जोड़े जा रहे हैं. कृपया धीरे हो जाए।"
+
+#: includes/functions.php:1394
+msgid "Forbidden"
+msgstr "अमान्य"
+
+#: includes/functions.php:1673
+msgid "Unauthorized action or expired link"
+msgstr "अनधिकृत कार्रवाई या अवधि समाप्त लिंक"
+
+#: includes/functions.php:1673
+msgid "Error"
+msgstr "त्रुटी"
+
+#: includes/functions.php:2064
+msgid "Service temporarily unavailable"
+msgstr "सेवा अस्थाई रूप से अनुपलब्ध"
+
+#: includes/functions.php:2065
+msgid "Our service is currently undergoing scheduled maintenance."
+msgstr "हमारी सेवा अभी अनुसूचित रखरखाव के दौर से गुजर रहा है।"
+
+#: includes/functions.php:2066
+msgid "Things should not last very long, thank you for your patience and please excuse the inconvenience"
+msgstr "हालात बहुत लंबे समय तक नहीं रहेंगे, आपके धैर्य के लिए धन्यवाद. असुविधा के लिए क्षमस्व."
+
+#: includes/functions.php:2186
+#, php-format
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "संस्करण %2$s! से %1$s <strong>पदावनत</strong>. %3$s का इस्तेमाल करें."
+
+#: includes/functions.php:2188
+#, php-format
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "संस्करण %2$s! से %1$s <strong>पदावनत</strong>. विकल्प उपलब्ध नहीं."
+
+#: user/plugins/sample-toolbar/plugin.php:62
+msgid "day"
+msgid_plural "days"
+msgstr[0] "दिन"
+msgstr[1] "दिन"
+
+#: user/plugins/sample-toolbar/plugin.php:67
+msgid "view"
+msgid_plural "views"
+msgstr[0] "राय"
+msgstr[1] "राय"

@@ -1,5 +1,5 @@
 # YOURLS-Hindi-translation
-YOURLS Hindi (hi-IN) Translation
+This is the Hindi (hi-IN) translation gettext support file for URL shortening servie @github/YOURLS
 
 Built and tested for <u>YOURLS</u> v1.7 
 
